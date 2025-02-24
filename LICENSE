@@ -1,0 +1,30 @@
+Apache License 2.0 for StepsCTA
+
+Copyright (c) 2025, University of British Columbia.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+=============================================
+
+Third-Party Licenses
+
+This project includes third-party code governed by the following licenses:
+
+1. Megagon Labs' Doduo Code (Licensed under Apache License 2.0)
+   - The original source is available at: https://github.com/megagonlabs/doduo.
+   - A copy of this license is provided in LICENSES/Apache_2.0_Megagon.txt.
+
+2. Alibaba-MIIL's ASL Code (Licensed under MIT License)
+   - The original source is available at: https://github.com/Alibaba-MIIL/ASL.
+   - A copy of this license is provided in LICENSES/MIT_Alibaba_MIIL.
+
+All modifications to third-party code and new code introduced in this repository are licensed under the Apache License, Version 2.0.
